@@ -1,0 +1,57 @@
+
+#wb_header { height: 100px; }
+#wb_header > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_main { height: 970px; padding-bottom: 100px; }
+#wb_main > .wb_cont_bg { background: transparent none repeat scroll left top; }
+#wb_footer { height: 100px; }
+#wb_footer > .wb_cont_bg { background: #1c2f42 none repeat-x scroll center bottom; }
+body { background: #ffffff none no-repeat scroll center top; }
+.wb_sbg { background: transparent url("../gallery_gen/790e27513432877f3689068c1505d508.jpg") repeat-x scroll left top; }
+body, .wb_sbg { min-width: 1200px; min-height: 1170px; }
+.wb_cont_inner { width: 1200px; }
+.wb_cont_bg { width: 1200px; margin-left: -600px; }
+.root { height: 1170px; overflow: visible; min-height: 1170px; }
+#wb_element_instance31 { top: 18px; left: 40px; min-width: 500px; width: 500px; min-height: 55px; height: 55px; display: block; z-index: 343; }
+#wb_element_instance32 { top: 30px; left: 570px; min-width: 590px; width: 590px; min-height: 38px; height: 38px; display: block; z-index: 544; }
+#wb_element_instance32 > ul { display: block; }
+#wb_element_instance32 ul { background: transparent none repeat scroll right top; border: 1px none #000000; }
+#wb_element_instance32, #wb_element_instance32 ul { text-align: right; }
+#wb_element_instance32 ul ul { background: #1c2f42 none repeat scroll right top; }
+#wb_element_instance32 li { margin: 0px 10px 0px 10px; }
+#wb_element_instance32 li a { text-transform: uppercase; border: 0px none #000000; padding: 10px 0px 10px 0px; font: normal normal 16px 'Open Sans',sans-serif; text-decoration: none; color: #ffffff; line-height: 18px; background: transparent none no-repeat scroll center top; }
+#wb_element_instance32 li.over > a, #wb_element_instance32 li:focus > a { border: 0px none #000000; font: normal normal 16px 'Open Sans',sans-serif; text-decoration: none; color: #70d9ff; line-height: 18px; background: transparent none no-repeat scroll center top; }
+#wb_element_instance32 li.active > a { border: 0px none #000000; font: normal normal 16px 'Open Sans',sans-serif; text-decoration: none; color: #70d9ff; line-height: 18px; background: transparent none no-repeat scroll center center; }
+#wb_element_instance32:not(.collapse-expanded) .vmenu ul.open-left,#wb_element_instance32:not(.collapse-expanded) .hmenu ul.open-left { left: auto; right: 100%; }
+#wb_element_instance32:not(.collapse-expanded) .hmenu > li > ul.open-left { left: auto; right: 0; }
+#wb_element_instance33 { top: 30px; left: 1050px; min-width: 50px; width: 50px; min-height: 50px; height: 50px; display: block; z-index: 323; }
+#wb_element_instance33 img { width: 50px; height: 50px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance34 { top: 30px; left: 1120px; min-width: 50px; width: 50px; min-height: 50px; height: 50px; display: block; z-index: 326; }
+#wb_element_instance34 img { width: 50px; height: 50px; display: block; position: static; left: 0px; top: 0px; }
+#wb_element_instance35 { top: 50px; left: 40px; min-width: 1120px; width: 1120px; min-height: 79px; height: 79px; display: block; z-index: 67; }
+#wb_element_instance36 { top: 160px; left: 40px; min-width: 1120px; width: 1120px; min-height: 56px; height: 56px; display: block; z-index: 70; }
+#wb_element_instance37 { top: 230px; left: 40px; min-width: 1120px; width: 1120px; min-height: 330px; height: 330px; display: block; z-index: 71; }
+#wb_element_instance38 form .form-area-field { height: 152px; }
+#wb_element_instance38 { top: 590px; left: 350px; min-width: 810px; width: 810px; min-height: 280px; height: 280px; display: block; z-index: 72; }
+#wb_element_instance39 { top: 590px; left: 40px; min-width: 280px; width: 280px; min-height: 280px; height: 280px; display: block; z-index: 73; }
+#wb_element_instance40 { top: 870px; left: 0px; display: block; z-index: 9000; }
+#wb_element_instance41 { top: 100px; left: 0px; display: block; z-index: 9999; }
+
+
+#wb_element_instance31 p:last-child { margin-bottom: 0; }
+#wb_element_instance35 p:last-child { margin-bottom: 0; }
+#wb_element_instance36 p:last-child { margin-bottom: 0; }
+#wb_element_instance38 form td { text-align: right; }
+#wb_element_instance38 form tr.area-row > th { height: 1%; }
+#wb_element_instance38 form tr.area-row > td { height: 1%; }
+#wb_element_instance38 form tr.form-footer > td { height: 20px; }
+#wb_element_instance39 p:last-child { margin-bottom: 0; }
+
+
+@media (min-width: 768px) {
+}
+
+@media (min-width: 992px) {
+}
+
+@media (max-width: 767px) {
+}
